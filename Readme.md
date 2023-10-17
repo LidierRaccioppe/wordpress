@@ -15,6 +15,7 @@ Se debe crear un archivo con el nombre `docker-compose.yml`, para una instalacio
 ![Me pertenecen estos dominios](./imagenes/tripo.avif)
 
 
+![mi palabra](./imagenes/wordpress.png)
 
 
 
