@@ -1,7 +1,7 @@
 # Leanme Compose 
 
 ## Para Establecer el Compose Wordpress
-Se debe crear un archivo con el nombre `docker-compose.yml`, para una instalacion rapida y simple se seguira la guia que tiene Docker sobre Wordpress asi como su guia para Compose, siendo la primera """""esto y la segunda [Apretame](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress/) donde explica como usar el wordpress` desde el propio servicio 
+Se debe crear un archivo con el nombre `docker-compose.yml`, para una instalacion rapida y simple se seguira la guia que tiene Docker sobre Wordpress asi como su guia para Compose, siendo la primera este archivo y la segunda [Apretame](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress/) donde explica como usar el wordpress` desde el propio servicio 
 ## Explicando el Compose Wordepress
 Los modificadores `env` o `enviroment` son para indicar que es una *variable de entorno*, estas son variables de la propia imagen ya sea un  `BASEDATOS_USER`, para establecer el usuario de la base de datos, `BASEDATOS_PASSWORD`, para establecer la contraseña de usuario inicial, entre otras más, el modificador `images` es para el indicar que servicio usaremos así como su *versión*,  siendo la última indicada por la etiqueta o *TAG*, esta información se puede encontrar en su página de docker hub.
 
